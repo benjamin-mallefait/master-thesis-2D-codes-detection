@@ -1,0 +1,2 @@
+source,images_mean,map50_95_mean,map50_mean,map75_mean,precision_mean,recall_mean,f1_mean,speed_pre_ms_mean,speed_inf_ms_mean,speed_post_ms_mean,speed_total_ms_mean,fps_est_mean,images_std,map50_95_std,map50_std,map75_std,precision_std,recall_std,f1_std,speed_pre_ms_std,speed_inf_ms_std,speed_post_ms_std,speed_total_ms_std,fps_est_std
+validationSet::global::global,3329.0,0.3119675590805825,0.4179678039243632,0.3643229637635306,0.4284654200059364,0.3980970766685052,0.412723373838456,0.748213991,10.91452733,5.557204221,17.21994554,58.06498412,,,,,,,,,,,,

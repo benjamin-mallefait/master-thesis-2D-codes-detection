@@ -1,0 +1,2 @@
+model,auc_pr,chosen_conf,precision_at_conf,recall_at_conf,f1_at_conf
+baseline,0.9006725079189415,0.35,0.9256153638084934,0.9206349206349206,0.923118424602104
